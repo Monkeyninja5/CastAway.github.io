@@ -40,25 +40,25 @@ img {
 <h2>Our Baked Goods</h2>
 <p>
 <picture>
- <img src="bread-400.jpg" alt="close-up of sliced rustic
+ <img src="images/bread-400.jpg" alt="close-up of sliced rustic
 bread">
 </picture>
 <br>
   <p>
 <picture>
  <source media="(min-width: 480px)"
- srcset="bread-1200.jpg">
- <img src="bread-400.jpg" alt="close-up of sliced rustic
+ srcset="images/bread-1200.jpg">
+ <img src="images/bread-400.jpg" alt="close-up of sliced rustic
 bread">
 </picture>
 <br>
     <p>
 <picture>
  <source media="(min-width: 480px)"
- srcset="bread-1200.jpg 1200w,
+ srcset="images/bread-1200.jpg 1200w,
  bread-800.jpg 800w"
  sizes="80vw">
- <img src="bread-400.jpg" alt="close-up of sliced rustic
+ <img src="images/bread-400.jpg" alt="close-up of sliced rustic
 bread">
 </picture>
 <br>
