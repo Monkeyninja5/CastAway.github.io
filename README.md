@@ -40,7 +40,7 @@ img {
 <h2>Our Baked Goods</h2>
 <p>
 <picture>
- <img src="https://github.com/Monkeyninja5/CastAway.github.io/blob/main/images/bread-1200.jpg" alt="close-up of sliced rustic
+ <img src="![bread-400](https://user-images.githubusercontent.com/79542721/109724415-c95e0a80-7b6c-11eb-8fbc-6bd72e30a20f.jpg)" alt="close-up of sliced rustic
 bread">
 </picture>
 <br>
