@@ -40,25 +40,7 @@ img {
 <h2>Our Baked Goods</h2>
 <p>
 <picture>
- <img src="https://user-images.githubusercontent.com/79542721/109724415-c95e0a80-7b6c-11eb-8fbc-6bd72e30a20f.jpg" alt="close-up of sliced rustic
-bread">
-</picture>
-<br>
-  <p>
-<picture>
- <source media="(min-width: 480px)"
- srcset="https://user-images.githubusercontent.com/79542721/109725194-07a7f980-7b6e-11eb-8365-d6fe74a8dfc2.jpgg">
- <img src="https://user-images.githubusercontent.com/79542721/109724415-c95e0a80-7b6c-11eb-8fbc-6bd72e30a20f.jpg" alt="close-up of sliced rustic
-bread">
-</picture>
-<br>
-    <p>
-<picture>
- <source media="(min-width: 480px)"
- srcset="https://user-images.githubusercontent.com/79542721/109725194-07a7f980-7b6e-11eb-8365-d6fe74a8dfc2.jpg 1200w,
- https://github.com/Monkeyninja5/CastAway.github.io/issues/2#issue-820448606"
- sizes="80vw">
- <img src="https://user-images.githubusercontent.com/79542721/109724415-c95e0a80-7b6c-11eb-8fbc-6bd72e30a20f.jpg" alt="close-up of sliced rustic
+ <img src="images/bread-400.jpg" alt="close-up of sliced rustic
 bread">
 </picture>
 <br>
