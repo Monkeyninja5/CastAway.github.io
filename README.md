@@ -40,6 +40,9 @@ img {
 <h2>Our Baked Goods</h2>
 <p>
 <picture>
+	<source media="(min-width: 480px)"
+ srcset="images/bread-1200.jpg 1200w,  images/bread-800.jpg 800w"
+		sizes="80vw">
  <img src="images/bread-400.jpg" alt="close-up of sliced rustic
 bread">
 </picture>
