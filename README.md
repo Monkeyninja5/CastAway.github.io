@@ -50,6 +50,14 @@ bread">
 <p>We start our day at the crack of dawn to bake our own muffins, bread, and dinner rolls. Loaves not used that day are donated to the local food shelter. </p>
 
 <h2>Our Burgers</h2>
+<p>
+<picture>
+	<source media="(min-width: 480px)"
+ srcset="images/burgers-1200.jpg 1200w,  images/burgers-800.jpg 800w"
+		sizes="80vw">
+ <img src="images/burgers-400.jpg" alt="close-up of burger">
+</picture>
+<br>
 <p>People come from all over to enjoy our lovingly made burgers. We grind our own locally-sourced organic beef and turkey so you know it's fresh and free from fillers and other nonsense. Go for one of our creative topping combos or stick with the classics. </p>
 
 <h2>Catch of the Day</h2>
