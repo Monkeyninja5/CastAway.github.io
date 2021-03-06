@@ -3,8 +3,6 @@
 <head>
 <meta charset="UTF-8">
 <title>Blackstone Bistro Gallery</title>
-	<h2>Brandon Kuehn</h2>
-<h3>2 March 2021</h3>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body {
@@ -34,7 +32,7 @@ img {
 </head>
 
 <body>
-	<h1>2 March 2021</h1>
+	<h1>6 March 2021</h1>
 	<h2>Brandon Kuehn</h2>
 
 
