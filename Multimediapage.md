@@ -1,9 +1,3 @@
----
-title: Multimedia Page
-layout: template
-filename: Multimediapage.md
----
-
 <h3>15 March, 2021</h3>
 <h2>Brandon Kuehn</h2>
 <h1> This page will focus on how to use a spinning lure correctly. </h1>
