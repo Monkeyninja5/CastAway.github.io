@@ -11,4 +11,4 @@ filename: Multimediapage.md
 <p> Spinning lures work very well at attracting predator fish, such as trout.  Trout like to hide next to a structure like a rock or a drop-off, while they are hiding they are looking up for prey.  Prey for Trout is normally a bug that is struggling, or dragonfly larvae.  Alot of bugs are shiny and swim funny, thats what spinners will immitate to intise the trout to come out of their hiding area and try to ambush the "bug". </p>
 <p><img src=https://cdn3.volusion.com/mshnk.xodmr/v/vspfiles/photos/PantherMartinHolo-2.jpg?v-cache=1388216515></p>
 <p> Below is an image of structures trout will typically hide in awaiting movement of prey.</p>
-<p><img src=https://github.com/Monkeyninja5/CastAway.github.io/blob/main/trout%20hiding.jpg></p>
+<p><img src=https://user-images.githubusercontent.com/79542721/111178075-6c048900-8570-11eb-9e54-a81965a21abf.jpg></p>
