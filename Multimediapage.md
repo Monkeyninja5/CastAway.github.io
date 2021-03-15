@@ -1,0 +1,11 @@
+---
+title: Multimedia Page
+layout: template
+filename: Multimediapage.md
+---
+
+<h3>15 March, 2021</h3>
+<h2>Brandon Kuehn</h2>
+<h1> This page will focus on how to use a spinning lure correctly. </h1>
+
+<p> Spinning lures work very well at attracting predator fish, such as trout.  Trout like to hide next to a structure like a rock or a drop-off, while they are hiding they are looking up for prey.  Prey for Trout is normally a bug that is struggling, or dragonfly larvae.  Alot of bugs are shiny and swim funny, thats what spinners will immitate to intise the trout to come out of their hiding area and try to ambush the "bug". </p>
