@@ -1,10 +1,65 @@
-<h1>CastAway</h1>
-<h2>Brandon Kuehn</h2>
-<h3>2 March 2021</h3>
-<p>The program I hope to achieve will be "CastAway" a one stop shop for all fishing needs.  Included in this program will be types of fish in sections of water that you choose using an overlay on Google Earth, lures that will catch the fish and that are legal in that area, the size limits of each fish, and links to fishing gear websites as well as tutuorial videos for how to use the lures.</p>
-<p>My Father was in the Air Force for 20 years and he retired, during his time in the Air Force he met my Mother who only stayed in for six years.  My parents had my sister and I, and we just kept moving.  As much as I despise moving, I still joined the Air Force and have worked on some of the same aircraft as my Father.</p>
-<p>Having little time with my Father we only went fishing probably three times in my childhood.  Since I have been stationed in Idaho for the last two years, I decided to do what the locals do, I picked up hunting and fishing.  I never thought these activities could be so much fun, but I have truely grown to love them, even though I am extremely new to them.</p>
-<p>I generally just watch <a href="https;//www.youtube.com/">YouTube</a> videos on fishing and hunting.</p>
-<p><img src="https://www.wildtrout.org/imager/general/111/rainbow_trout_983c404359247ecee4033ec1e6bdab0c.jpg" alt="" width="220" height"220"> <img src="https://wp.themeateater.com/wp-content/uploads/2020/05/how-to-age-a-buck.jpg" alt="" width="220" height"280"> <img src="https://www.realtree.com/sites/default/files/styles/site_large/public/content/inserts/cmartinprochazkacz-shutterstock-waterfowl-mallard.jpg" alt="" width="220" height"240"></p> 
-<p>When I dream about buying more gear I check out prices at <a href="https://www.basspro.com/shop/en#">Bass Pro Shop</a> and <a href="https://www.dickssportinggoods.com/">Dicks Sporting Goods</a>.</p>
-<p><a href="https://monkeyninja5.github.io/CastAwaymultimedia/">Multimedia Page</a></p>
+
+<h1 style="color:white">CastAway</h1>
+<h2 style="color:white">Brandon Kuehn</h2>
+<h3 style="color:white">28 March 2021</h3>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  p{text-align: center; color: white}
+  
+body { 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: fill;
+  background-image: url("fishing background1.jpg");
+
+  padding: 20px;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+  width: 460;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+</style>
+</head>
+<body>
+
+<ul class="topnav">
+  <a class="active" href="index.html">Home</a>
+  <a href="Multimediapage.html">Multimedia</a>
+  <a href="images.html">Images</a>
+  <a href="Links.html">Links</a>
+  <a href="MyStory.html">My Story</a>
+</ul class="topnav">
+<hr>
+<p style= "padding-top: 75px;" >
+Ever want to learn how to fish but didn't know where to start? Maybe you know how to fish, but don't know the rules in your area.  This is the page for you, unfortunately I only have trout fishing tips and tricks for now and on a specific river in Idaho, but we are getting there!
+Using CastAway could either teach you new skills, hone skills, or help you find the fish you want to catch.
+Lets take a leap into the world of trout fishing, I hope you take something away from this!</p> 
+</body>
+</html>
