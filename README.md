@@ -12,7 +12,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: fill;
-  background-image: "fishingbackground index";
+  background-image: "fishingbackground index.jpeg";
 
   padding: 20px;
   margin: 0;
